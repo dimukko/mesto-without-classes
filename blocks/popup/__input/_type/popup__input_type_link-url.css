@@ -1,0 +1,3 @@
+.popup__input.popup__input_type_link-url:valid {
+  border: 1px solid green;
+}

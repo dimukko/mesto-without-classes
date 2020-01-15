@@ -1,0 +1,8 @@
+.form__error-message {
+  color: red;
+  font-size: 12px;
+}
+
+.form__error-message:first-of-type {
+  margin-bottom: 24px;
+}
